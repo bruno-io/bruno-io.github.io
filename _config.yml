@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   Bem-vindo ao meu blog pessoal! Sou apaixonado por tecnologia e programação, e este é o espaço onde compartilho minhas ideias, dicas e artigos técnicos.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://bruno-io.github.io"
 
 github:
   username: brbarmex # change to your GitHub username
@@ -148,7 +148,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://bruno-io.github.io"
+baseurl: ""
+domain: bruno-io.github.io
 
 # ------------ The following options are not recommended to be modified ------------------
 
