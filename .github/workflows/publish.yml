@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - docs
+      - main
   workflow_call:
     secrets:
       GH_PAT:
